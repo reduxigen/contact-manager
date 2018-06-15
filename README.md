@@ -1,6 +1,6 @@
 # Contact Manager
 
-Contact Manager is a sample application built using `React` and `Redux` with `Reduxigen`. It was built to showcase how you can build an application using `Reduxigen`.
+Contact Manager is a sample application built using `React` and `Reduxigen`. It was built to showcase how you can build an application using `Reduxigen`.
 
 Contact Manager has two screens: 
 
